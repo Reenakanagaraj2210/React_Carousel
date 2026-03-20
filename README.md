@@ -225,11 +225,9 @@ root.render(
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2026-03-16 112253.png>)
 
-![alt text](<Screenshot 2026-03-14 162438.png>)
-
-![alt text](<Screenshot 2026-03-16 112306.png>)
-
+![alt text](image1.png.png) 
+![alt text](image2.png.png) 
+![alt text](image3.png.png)
 ## RESULT
 The program for creating Image Carousel using React is executed successfully.
